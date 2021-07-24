@@ -6,6 +6,12 @@
 
 ## 使用方法
 
+### 环境预配置
+
+需要安装[Perl](http://www.perl.org/get.html)
+
+### 命令
+
 ```powershell
     ./ASCII2BIN {INPUT_FILE} {OUTPUT_FILE} {-[OPTION]} 
 ```
